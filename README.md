@@ -14,5 +14,7 @@
 を併用します。
 その他、詳細は追って連絡します。
 
+なお、学習院大学で定めている[遠隔授業受講のルール](https://www.univ.gakushuin.ac.jp/life/studentlife/attention/onlinerules.html) を遵守するようにしてください。
+
 ## 開講時間割
 １/2学期 水 2時限
