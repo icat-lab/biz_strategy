@@ -19,5 +19,5 @@ Gmailアドレス *__の中に学籍番号が含まれている必要はあり�
 Gmailアドレス修正登録フォームのメールが届いたため登録しようとしたのですが、「確認用Google Classroomログイン時に使用するGmailアドレス」を入力したところエラーが出てしまい再登録することができませんでした。
 
 ## A2
-Google Classroomにログインする際に使っている *Gmailアドレス* を入力する必要があるため、 "@gmail.com" で終わるメールアドレスしか登録できないようにしています。Gmailアドレスを取得していない方は、Gmailアドレスを取得して、そのアドレスで登録してください。Gmailアドレスに限定しているのは、Google Driveなどでグループワークの共同作業をするためです。
+Google Classroomにログインする際に使っている *Gmailアドレス* を入力する必要があるため、 "@gmail.com" で終わるメールアドレスしか登録できないようにしています。Gmailアドレスを取得していない方は、Gmailアドレスを取得して、そのアドレスで登録してください。Gmailアドレスに限定しているのは、Google Driveなどでグループワークの共同作業をするためです。新たにGmailアドレスを取得する場合は、[こちら](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)から手続きしてください。
 
